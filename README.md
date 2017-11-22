@@ -1,2 +1,0 @@
-# Practice
-Only for practice
